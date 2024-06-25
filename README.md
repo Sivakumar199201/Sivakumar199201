@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sivakumar199201
-- 👀 I’m interested in open to work
-- 🌱 I’m currently learning  JavScript
+- 👋 Hi, I’m @Sivakumar 
+- 👀 I’m interested in Learning
+- 🌱 I’m currently learning  JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... chandrasivakumar1992@gmail.com
 - 😄 Pronouns: ...
